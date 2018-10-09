@@ -41,5 +41,5 @@ Then, we need to take care of Server and Client separately.
 
 **Step 3. Launch client**
 
-That's it, launch your client URL, click **Login with Passport** and enter default credentials: **admin@admin.com - password**.
+That's it, launch your client URL, click **Login with Passport** and enter default credentials: **kb.hartanto[@]gmail.com - password**.
 
